@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2af655ea7c6c1fc4587d48c4303a4ed7, type: 3}
+  m_Name: GatesON Terrain
+  m_EditorClassIdentifier: 
+  m_Sprites:
+  - {fileID: -8600571240689673831, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -2967709958984212731, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -2940545180962140586, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -4872364607049055280, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -4304818409781771027, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: 8547663216615511767, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -7241232833850720803, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -5620959220422530113, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -6330749777176256370, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -4006193290877943580, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: 444802650355949143, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: 4582422103955364928, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: 5923305862094713583, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: 4961815432168910946, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
+  - {fileID: -119392476582419809, guid: 11f1e36b13fbb79419528c9230951edc, type: 3}
